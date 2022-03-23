@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100vw;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vw 5vw 1vw 5vw;
+}
+
+.nav-menu li {
+    display: inline-block;
+    margin: 20px;
+    line-height: 48px;
+}
+
+.logo-position img {
+    margin-left: 10px;
+}
+
+#login {
+    border: 2px solid #fff;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(255, 255, 255, 0.6);
+    color: #fff;
+    width: 218px;
+}
+
+#login:hover {
+    border: 2px solid #fc0441;
+    color: #fc0441
+}
+
+#sign-in {
+    border: 2px solid #fc0441;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #fc0441;
+    color: #fff;
+    width: 218px;
+}
+
+#sign-in:hover {
+    border: 2px solid #fc0441;
+    background-color: #fff;
+    color: #fc0441;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 0.5px;
+}
+
+.nav-menu a:hover {
+    color: #fc0441;
+    transition: 0.3s;
+}
+
+.logo-position {
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../images/bgchicken.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-text {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.container-text h1 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    font-size: 140px;
+    color: #fff;
+}
+
+.container-text p {
+    font-weight: 400;
+    font-size: 25px;
+    color: #fff;
+    letter-spacing: 5px;
+}
+
+.container-text button {
+    margin-top: 150px;
+    border: 4px solid #fff;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255, 0.3);
+    font-size: 15px;
+    color: #fff;
+    width: 400px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.container-text img {
+    margin-top: 150px;
+    width: 45px;
+    cursor: pointer;
+}
+/*ENCERRAMENTO DO MAIN*/
+
+.second-part {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+
+.second-part-text {
+    text-align: center;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.second-part-text h2 {
+    font-size: 48px;
+    font-style: bold;
+    font-weight: 700;
+}
+
+.second-part-text p {
+    margin-top: 24px;
+    font-size: 16px;
+    font-style: bold;
+    font-weight: 400;
+}
+
+.product-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 95px;
+    width: 100vw;
+}
+
+.product-images img {
+    padding: 10px;
+}
+
+.chicken-images {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chicken-images p {
+    margin-top: 5px;
+    font-weight: 700;
+}
+
+.chicken-images span {
+    margin-top: 2px;
+    font-weight: 400;
+}
+
+.second-part button {
+    width: 256px;
+    height: 48px;
+    padding: 10px;
+    margin-top: 93px;
+    background-color: #fc0441;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.second-part button:hover {
+    background-color: #fff;
+    border: 2px solid #fc0441;
+    color: #fc0441;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    overflow: hidden;
+}
+/*FIM SEGUNDO CARD*/
+
+.third-part {
+    width: 100vw;
+}
+
+.intro-services {
+    background: rgb(199, 25, 25);
+    background: linear-gradient(114deg, rgba(199, 25, 25, 1) 0%, rgba(252, 4, 65, 1) 100%);
+    height: 208px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    align-items: center;
+    font-size: 2em;
+    margin-top: 100px;
+}
+
+.service-structure {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.service-structure-left {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20vw;
+    padding-right: 2vw;
+    align-items: center;
+}
+
+.service-structure-left-title h2 {
+    width: 28vw;
+    margin-top: 170px;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.service-structure-left p {
+    text-align: justify;
+    font-size: 16px;
+    margin-top: 84px;
+}
+
+.service-structure-right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 20vw;
+    align-items: center;
+}
+
+.food-up {
+     margin-top: -150px;
+     display: flex;
+     gap: 15px;
+}
+
+.food-imagebottom img {
+    width: 520px;
+    padding-top: 15px;
+}
+
+.area-map {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-section img {
+    width: 400px;
+    cursor: pointer;
+}
+
+.socials {
+    width: 20%;
+    height: 5vh;
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-around;
+}
+
+.socials img {
+    cursor: pointer;
+    width: 40px;
+}
+
+footer {
+    width: 100vw;
+    height: 5vh;
+    background-color: black;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.text-footer span:first-child {
+    margin-right: 107px;
+}

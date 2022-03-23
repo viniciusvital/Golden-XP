@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="332.484" height="105.857" viewBox="0 0 332.484 105.857">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f98f49"/>
+      <stop offset="1" stop-color="#ffbe5a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.125" y1="-0.023" x2="0.025" y2="1.042" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd500"/>
+      <stop offset="1" stop-color="#f88552"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0" y2="1.078" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6363"/>
+      <stop offset="1" stop-color="#803232"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="1" x2="0.685" y2="0.073" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x2="0.5" y2="1" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="Grupo_384" data-name="Grupo 384" transform="translate(-160.516 -56)">
+    <g id="Grupo_293" data-name="Grupo 293" transform="translate(0 22)">
+      <g id="Grupo_238" data-name="Grupo 238" transform="translate(160.516 34)">
+        <path id="Subtração_15" data-name="Subtração 15" d="M14.513,0H0V17.869a13.965,13.965,0,0,0,5.717-1.215,14.628,14.628,0,0,0,4.669-3.315,15.49,15.49,0,0,0,3.148-4.917A16.079,16.079,0,0,0,14.688,2.4,16.461,16.461,0,0,0,14.513,0Z" transform="translate(17.069 53.322) rotate(180)" fill="url(#linear-gradient)"/>
+        <path id="Interseção_7" data-name="Interseção 7" d="M0,0A35.2,35.2,0,0,1,35.2,35.2,35.2,35.2,0,0,1,0,70.408Z" transform="translate(16.802 35.449)" fill="url(#linear-gradient-2)"/>
+        <path id="Subtração_13" data-name="Subtração 13" d="M.133,0H0V33.336H.133a16.568,16.568,0,0,0,6.488-1.31,16.62,16.62,0,0,0,5.3-3.572,16.619,16.619,0,0,0,3.572-5.3,16.722,16.722,0,0,0,0-12.976,16.616,16.616,0,0,0-3.572-5.3,16.618,16.618,0,0,0-5.3-3.572A16.568,16.568,0,0,0,.133,0Z" transform="translate(16.802 86.659) rotate(180)" fill="url(#linear-gradient-3)"/>
+        <path id="Subtração_16" data-name="Subtração 16" d="M.133,0H0V33.336H.133a16.568,16.568,0,0,0,6.488-1.31,16.62,16.62,0,0,0,5.3-3.572,16.619,16.619,0,0,0,3.572-5.3,16.722,16.722,0,0,0,0-12.976,16.616,16.616,0,0,0-3.572-5.3,16.618,16.618,0,0,0-5.3-3.572A16.568,16.568,0,0,0,.133,0Z" transform="translate(16.802 35.453) rotate(180)" fill="url(#linear-gradient-4)"/>
+        <path id="Subtração_17" data-name="Subtração 17" d="M.133,33.337H0V0H.133A16.567,16.567,0,0,1,6.621,1.31a16.618,16.618,0,0,1,5.3,3.572,16.617,16.617,0,0,1,3.572,5.3,16.722,16.722,0,0,1,0,12.976,16.617,16.617,0,0,1-3.572,5.3,16.618,16.618,0,0,1-5.3,3.572A16.567,16.567,0,0,1,.133,33.337Z" transform="translate(16.802 35.453) rotate(-90)" fill="url(#linear-gradient-5)"/>
+        <path id="Subtração_20" data-name="Subtração 20" d="M.133,33.395H0V0H.133A16.436,16.436,0,0,1,6.6,1.312a16.556,16.556,0,0,1,5.28,3.578,16.651,16.651,0,0,1,3.56,5.308,16.831,16.831,0,0,1,0,13,16.651,16.651,0,0,1-3.56,5.308A16.556,16.556,0,0,1,6.6,32.083,16.437,16.437,0,0,1,.133,33.395Z" transform="translate(16.802 35.453) rotate(-135)" fill="url(#linear-gradient-5)"/>
+        <path id="Interseção_9" data-name="Interseção 9" d="M0,0A25.606,25.606,0,1,1,0,51.21Z" transform="translate(16.802 35.449)" fill="url(#linear-gradient-2)"/>
+        <path id="Interseção_11" data-name="Interseção 11" d="M0,0A18.971,18.971,0,0,1,19.11,18.827,18.97,18.97,0,0,1,0,37.655Z" transform="translate(16.815 35.449)" fill="url(#linear-gradient-2)"/>
+        <path id="Subtração_22" data-name="Subtração 22" d="M.079,0H0V19.781H.079a9.895,9.895,0,0,0,7.011-2.9A9.86,9.86,0,0,0,9.215,13.74a9.9,9.9,0,0,0,0-7.7A9.858,9.858,0,0,0,7.09,2.9,9.886,9.886,0,0,0,3.938.777,9.875,9.875,0,0,0,.079,0Z" transform="translate(16.815 73.104) rotate(180)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Grupo_294" data-name="Grupo 294" transform="translate(0 22)">
+      <text id="CHICKEN_HOUSE" data-name="CHICKEN HOUSE" transform="translate(376 58)" fill="#f99245" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.38em"><tspan x="-56.153" y="0">CHICKEN HOUSE</tspan></text>
+      <text id="Golden_Experience" data-name="Golden Experience" transform="translate(374 104)" fill="#ff5656" font-size="45" font-family="FeelingLovely, Feeling Lovely"><tspan x="-117.938" y="0">G</tspan><tspan y="0" font-family="AngelinattaPersonalUseOnly, Angelinatta Personal Use Only">olden Experience</tspan></text>
+    </g>
+  </g>
+</svg>
