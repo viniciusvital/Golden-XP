@@ -9,31 +9,35 @@
     font-family: 'Poppins', sans-serif;
 }
 
+nav {
+padding: 0 50px 0 50px;
+margin-top: 30px;
+}
+
 .nav-menu {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    padding: 1vw 5vw 1vw 5vw;
+    justify-content: space-between;
+    list-style: none;
 }
 
 .nav-menu li {
     display: inline-block;
-    margin: 20px;
+    margin-right: 15px;
     line-height: 48px;
 }
 
-.logo-position img {
-    margin-left: 10px;
-}
+
 
 #login {
     border: 2px solid #fff;
     border-radius: 25px;
     text-align: center;
     line-height: 40px;
-    background-color: rgb(255, 255, 255, 0.6);
+    background-color: rgb(255, 255, 255, 0.3);
     color: #fff;
     width: 218px;
+    cursor: pointer;
 }
 
 #login:hover {
@@ -42,19 +46,16 @@
 }
 
 #sign-in {
-    border: 2px solid #fc0441;
+    border: 2px solid #fff;
     border-radius: 25px;
     text-align: center;
     line-height: 40px;
     background-color: #fc0441;
-    color: #fff;
     width: 218px;
 }
 
 #sign-in:hover {
-    border: 2px solid #fc0441;
-    background-color: #fff;
-    color: #fc0441;
+    cursor: pointer;
 }
 
 .nav-menu a {
@@ -69,7 +70,6 @@
 }
 
 .logo-position {
-    margin-left: 50px;
     cursor: pointer;
 } 
 
@@ -132,7 +132,7 @@
 
 .container-text button {
     margin-top: 150px;
-    border: 4px solid #fff;
+    border: 2.5px solid #fff;
     border-radius: 25px;
     background-color: rgb(255, 255, 255, 0.3);
     font-size: 15px;
